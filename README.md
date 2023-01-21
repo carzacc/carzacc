@@ -14,5 +14,3 @@ Oh! And, by the way, I've written a little 350 page book about Flutter! You can 
 Do you want me to cover some topic I've never written about? Do you have an issue with something in particular? Do you have a question or some feedback to give about my books? Feel free to [email me at carmine@carminezacc.com](mailto:carmine@carminezacc.com)!
 
 Happy GitHub browsing!
-
-![](https://github-readme-stats.vercel.app/api?username=carzacc&show_icons=true&theme=dark)
